@@ -1,0 +1,78 @@
+body{
+    font-size: 20px;
+}
+.inicio{
+    background-color:#050505b2;
+
+}
+.fondo{
+    background-color:#e6e6e6;
+    max-width: 100%;
+    height: auto;
+    width: auto\3; 
+    vertical-align: middle;
+}
+
+.a{
+    font-size: 20px;
+}
+
+.margin{
+    margin-top: 20px;
+
+}
+.margen{
+    margin-right: 12px;
+}
+.fondo img{
+    max-width: 70%;
+    height: auto;
+    width: auto\3; 
+}
+
+.login{
+    margin-top:20px;
+    background: #2c2c2cb2;
+    align-items: center;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+}
+
+.cuadro{
+    margin-right: 20px;
+
+    background: #e6e6e6;
+    
+
+}
+
+
+input[type=text], input[type=password]{
+
+    width: 100%;
+    
+}
+
+.boton{
+
+    margin-top: 7px;
+}
+
+.clicado {
+    -webkit-filter: drop-shadow(11px 8px 10px gray); /* Safari */
+    filter: drop-shadow(11px 8px 10px gray);
+}
+
+img{
+    margin:3px;
+}
+
+.carta{
+    background-color: bisque;
+    border:2px;
+    border:1px solid black;
+    padding: 12px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 5px;
+}
